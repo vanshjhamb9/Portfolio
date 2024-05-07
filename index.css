@@ -184,16 +184,16 @@
    }
    
    #project-1{
-   background-image: url("/Portfolio/assets/Languages/Project1.png");
+   background-image: url(/Portfolio/assets/Languages/Project1.png);
    }
    #project-2{
-     background-image: url("/Portfolio/assets/Languages/Project2.PNG");
+     background-image: url(/Portfolio/assets/Languages/Project2.PNG);
      }
      #project-3{
-       background-image: url("/Portfolio/assets/Languages/Project3.JPG");
+       background-image: url(/Portfolio/assets/Languages/Project3.JPG);
        }
        #project-4{
-         background-image: url("/Portfolio/assets/Languages/Project4.png");
+         background-image: url(/Portfolio/assets/Languages/Project4.png);
    }   
    .project-content-left{
      left:45%
